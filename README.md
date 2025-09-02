@@ -9,6 +9,5 @@
 </p>
 
 # Welcome to my Repo! 
----
 
 ### In Pursuit of Cloud Engineering and DevOps
