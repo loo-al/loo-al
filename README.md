@@ -1,8 +1,6 @@
 ![top_banner](dev_banner.png)
 
 <p align="center">
-  <img src="https://rushter.com/counter.svg" alt="Page Views" />
-  &nbsp; &nbsp;
   <a href="https://github.com/loo-al">
     <img src="https://img.shields.io/github/followers/loo-al?label=Follow&style=social" alt="GitHub Followers" />
   </a>
