@@ -10,4 +10,4 @@
 
 # Welcome to my Repo! 
 
-### In Pursuit of Cloud Engineering and DevOps
+### Pursuing Cloud Engineering / DevOps
