@@ -8,6 +8,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=loo-al.loo-al" alt="Visitor Badge" />
 </p>
 
-# Welcome to my Repo! 
+# Hey I'm Alex, welcome to my Repo ✌️
 
-### Pursuing Cloud Engineering / DevOps
+### Pursuing Software Engineering / DevOps
+
+Happy to complete my Computer Science Bachelor at CSULB and show you some things I've learned.
