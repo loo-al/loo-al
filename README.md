@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=loo-al.loo-al" alt="Visitor Badge" />
 </p>
 
-# Hey I'm Alex, welcome to my Repo ✌️
+# Hey I'm Alex, welcome to my repo! ✌️
 
 ### Pursuing Software Engineering / DevOps
 
