@@ -12,7 +12,7 @@
 
 ### Pursuing Software Engineering / DevOps
 
-I am proud to complete my Computer Science Bachelor at CSULB and show you some things I've learned.  
+I am proud to complete my Computer Science Bachelor at CSULB and show you some things I have learned.  
 In this repo you will find the aggregate projects that I worked on over the years.  
 
 These projects gave me chance to learn many different languages,  and I am a better software developer  
